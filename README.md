@@ -1,0 +1,2 @@
+# Weakauras
+Some  WA Strings
