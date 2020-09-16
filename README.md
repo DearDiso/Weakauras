@@ -1,2 +1,3 @@
 # Weakauras
-Some  WA Strings
+
+> Diverse WAs die ich für meine Chars erstellt habe.
