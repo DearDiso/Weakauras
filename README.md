@@ -1,3 +1,3 @@
 # Weakauras
 
-> Diverse WAs die ich für meine Chars erstellt habe.
+> Diverse Weakauras, die ich für meine Chars erstellt habe.
